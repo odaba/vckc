@@ -1,0 +1,69 @@
+body {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 12pt;
+  color: #666666;
+  background-image: url('images/nth_theme_modern_modern07_bg.gif');
+  background-color: white;
+}
+hr {
+  max-width: 1036px;
+  clear: both;
+}
+div.div-left {
+  float: left;
+  margin: 0 16px;
+}
+div.div-block {
+  display: block;
+  margin: 16px 0;
+}
+div.div-head {
+  font-size: x-large;
+  display: block;
+  margin: 16px auto;
+  text-align: center;
+}
+div.div-agency ul { margin-top: 0; }
+div.div-agency div.name { text-decoration: underline; }
+div.img-pageblock { display: table-row; }
+div.img-pageblock img {
+  margin: 8px;
+  vertical-align: middle;
+}
+div.img-pageblock div.pageblock {
+  display: table-cell;
+  vertical-align: middle;
+}
+div.div-centered { text-align: center; }
+div.div-small { font-size: 10px; }
+div.blue-links a,
+  div.blue-links a:link,
+  div.blue-links a:hover,
+  div.blue-links a:visited,
+  div.blue-links a:active {
+    color: #388194;
+  }
+a { color: #ff6600; }
+a:visited { color: gray; }
+a:active, a:hover { color: red; }
+div.vckc-head {
+  height: 145px;
+  text-align: center;
+  font-size: 48px;
+  color: #800000;
+}
+div.vckc-head span.sub-head { font-family: Brush Script MT; }
+div.vckc-content {
+  max-width: 1040px;
+  margin: 0 auto;
+  text-align: justify;
+  color: #388194;
+}
+div.vckc-nav {
+  margin: 5px;
+  text-align: center;
+  font-weight: bold;
+  font-size: small;
+  color: #388194;
+}
